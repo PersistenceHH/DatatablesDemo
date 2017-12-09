@@ -1,4 +1,4 @@
-{
+﻿{
 	"globalTicket":"861db3f0d33a464abc94018783812c6e",
 	"monitorTrackId":"7d519315-7a38-4279-964c-876ee56dd803",
 	"processResult":true,
